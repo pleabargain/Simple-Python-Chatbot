@@ -11,7 +11,7 @@
 Creating a simple Python chatbot using natural language processing and deep learning.
 
 1. run the libraries.py first
-Check your dependancies. A requirements file or poetry config would be useful here.
+Check your dependencies. A requirements file or poetry config would be useful here.
 
 2. run train_chatbot
 
