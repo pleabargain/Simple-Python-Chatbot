@@ -1,3 +1,4 @@
+#this really should be a requirements text file
 #pip3 install keras
 #pip3 install TensorFlow
 import nltk
