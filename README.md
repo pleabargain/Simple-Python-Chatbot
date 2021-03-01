@@ -1,8 +1,10 @@
 # Simple-Python-Chatbot
 
 # TODO
+* center the UI in the screen
+* I've received some index out of range errors. Need to set up error catching.
 * clean up the UI
-* pop responses so that they don't get used twice in the same session
+* pop responses so that users don't necessarily see same response twice in the same session
 * call function from intent
 * load images, webpages, etc. from intent
 * bind chat bot to telegram or similar
@@ -13,13 +15,13 @@
 
 
 # Done
-* convert UI from tk to pysimple GUI
-* response intent is included in the chat UI
-* get logging to work
+* convert UI from tk to pysimple GUI: Thanks Horst!
+* response intent is included in the chat UI: Thanks Horst!
+* get logging to work: Thanks Horst!
   * Generates a log file with time stamp
   * I need to see how the chat brain is parsing input.
   * I don't see any evidence in the code for recording what the users type
-* bind return key in UI to send user input
+* bind return key in UI to send user input: Thanks Horst!
   
 
 Creating a simple Python chatbot using natural language processing and deep learning.
@@ -27,17 +29,21 @@ Creating a simple Python chatbot using natural language processing and deep lear
 1. run the libraries.py first
 Check your dependencies. A requirements file or poetry config would be useful here.
 
-2. run train_chatbot
+1. update the intents.json file
+
+2. run train_chatbot.py
 
 3. run chatgui.py
 
 
 # Questions
 * How to call a Python function from a json file?
+* how to process logs more effectively?
 
 
 
 # misc
+* the intents file is to support chatbot for a Toastmasters club.
 * convert_json_to_csv.py
 I found this on the web here
 https://datatofish.com/json-string-to-csv-python/
