@@ -1,0 +1,2 @@
+user: who
+bot: Our members are business owners, teachers, programmers. All are interested in becoming better speakers. Contact us on our FB or Telegram channel for details on joining our international club.
