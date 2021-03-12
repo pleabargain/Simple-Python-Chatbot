@@ -1,5 +1,8 @@
 # Simple-Python-Chatbot
 
+# Running this chat bot on https://repl.it/@DennisGG/Simple-Python-Chatbot#README.md
+Click on the RUN button up above! It's that easy!
+
 # TODO
 * center the UI in the screen
 * I've received some index out of range errors. Need to set up error catching.
@@ -11,7 +14,7 @@
 * set up a requirements document (poetry? requirements.txt?)
 * check for cyrillic support with NLTK
 * figure out a json UI 
-  * It's really not convenient to work with json
+  * It's really not convenient to work with json though editing the json file here in repl.it is not hard.
 
 
 # Done
