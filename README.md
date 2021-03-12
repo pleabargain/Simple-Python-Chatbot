@@ -2,11 +2,11 @@
 
 
 # TODO WEB UI
-* make into a flask object
+* make chat UI into a flask object
+* add intent to log output to make it easier to track
 * load images, webpages, etc. from intent
 * bind chat bot to telegram or similar
 * check for cyrillic support with NLTK\
-* add intent to log output
 
 # Deprecated TODO
 * center the UI in the screen
