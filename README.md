@@ -4,6 +4,7 @@
 Click on the RUN button up above! It's that easy!
 
 # TODO
+* make into a flask object
 * center the UI in the screen
 * I've received some index out of range errors. Need to set up error catching.
 * clean up the UI
