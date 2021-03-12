@@ -1,19 +1,20 @@
 # Simple-Python-Chatbot
 
-# Running this chat bot on https://repl.it/@DennisGG/Simple-Python-Chatbot#README.md
-Click on the RUN button up above! It's that easy!
 
-# TODO
+# TODO WEB UI
 * make into a flask object
+* load images, webpages, etc. from intent
+* bind chat bot to telegram or similar
+* check for cyrillic support with NLTK\
+* add intent to log output
+
+# Deprecated TODO
 * center the UI in the screen
 * I've received some index out of range errors. Need to set up error catching.
 * clean up the UI
-* pop responses so that users don't necessarily see same response twice in the same session
+* done in the code: pop responses so that users don't necessarily see same response twice in the same session
 * call function from intent
-* load images, webpages, etc. from intent
-* bind chat bot to telegram or similar
 * set up a requirements document (poetry? requirements.txt?)
-* check for cyrillic support with NLTK
 * figure out a json UI 
   * It's really not convenient to work with json though editing the json file here in repl.it is not hard.
 
